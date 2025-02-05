@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Status-Completo-green?style=flat-square"/>
   <img src="https://img.shields.io/badge/License-GNU-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/Made%20with-HTML%20%26%20JS-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Responsive-Yes-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Feito%20com%20Amor-Sim-red?style=flat-square"/>
 </p>
 
 Bem-vindo ao **Amigo Secreto** 🎉!  
