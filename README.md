@@ -8,7 +8,7 @@
 </p>
 
 Bem-vindo ao **Amigo Secreto** 🎉!  
-Este é um projeto **simples e interativo** que permite adicionar nomes de participantes e sortear automaticamente os pares de amigo secreto! Ele foi desenvolvido utilizando **HTML, CSS e JavaScript** de forma responsiva.
+Este é um projeto **simples e interativo** que permite adicionar nomes de participantes e sortear automaticamente os pares de amigo secreto! Ele foi desenvolvido utilizando **HTML, CSS e JavaScript**.
 
 ---
 
