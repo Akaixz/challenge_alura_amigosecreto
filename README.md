@@ -20,7 +20,7 @@ Este é um projeto **simples e interativo** que permite adicionar nomes de parti
 
 ---
 
-## 📸 Preview
+## 📸 Visualização
 
 <p align="center">
   <img src="assets/screenshot.png" alt="Preview do Amigo Secreto" width="600px">
@@ -28,7 +28,7 @@ Este é um projeto **simples e interativo** que permite adicionar nomes de parti
 
 ---
 
-## 🎮 Como Usar
+## 🎮 Importação (Clone)
 
 1️⃣ **Clone o repositório**  
 ```bash
