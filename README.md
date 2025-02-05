@@ -1,16 +1,35 @@
-# Amigo Secreto 🎉
+# 🎁 Amigo Secreto 
 
-Projeto de Amigo Secreto feito com HTML, CSS e JavaScript, onde você adiciona nomes e faz sorteios aleatórios sem repetições, com um design responsivo e ícones estilosos!
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Completo-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/License-GNU-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Made%20with-HTML%20%26%20JS-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Responsive-Yes-green?style=flat-square"/>
+</p>
 
-## Funcionalidades
+Bem-vindo ao **Amigo Secreto** 🎉!  
+Este é um projeto **simples e interativo** que permite adicionar nomes de participantes e sortear automaticamente os pares de amigo secreto! Ele foi desenvolvido utilizando **HTML, CSS e JavaScript** de forma responsiva.
 
-- **Adição de nomes:** Insira os nomes dos participantes e veja a lista atualizada em tempo real.
-- **Sorteio aleatório:** Realiza sorteios sem repetir, garantindo um amigo secreto diferente para cada participante.
-- **Design responsivo:** Layout que se adapta a desktops, tablets e celulares, com ícones e visual moderno.
-- **Validação de entrada:** Impede que nomes em branco sejam adicionados.
+---
 
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
-- **HTML5**
-- **CSS3** (utilizando variáveis para cores e design responsivo)
-- **JavaScript** (para manipulação do DOM e lógica de sorteio)
+- 🎨 **HTML5, CSS3** – Estruturação e estilização da interface.
+- ⚡ **JavaScript** – Manipulação do DOM e lógica do sorteio.
+- 📱 **Design Responsivo** – Adaptável para desktop e mobile.
+
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="assets/screenshot.png" alt="Preview do Amigo Secreto" width="600px">
+</p>
+
+---
+
+## 🎮 Como Usar
+
+1️⃣ **Clone o repositório**  
+```bash
+git clone https://github.com/seu-usuario/amigo-secreto.git
