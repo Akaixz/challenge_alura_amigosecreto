@@ -20,6 +20,19 @@ Este é um projeto **simples e interativo** que permite adicionar nomes de parti
 
 ---
 
+## 🚀 Como Utilizar o Amigo Secreto
+
+1️⃣ **Inserir os Participantes**  
+Na interface do aplicativo, você verá um campo de texto onde pode adicionar os nomes dos participantes. Digite o nome de cada pessoa e clique em **"Adicionar Participante"**. Repita esse processo até adicionar todos os nomes desejados.
+
+2️⃣ **Sortear os Amigos Secretos**  
+Após inserir todos os participantes, clique no botão **"Sortear"**. O sistema irá automaticamente distribuir os amigos secretos, garantindo que ninguém seja sorteado para si mesmo.
+
+3️⃣ **Ver os Resultados**  
+Após o sorteio, o aplicativo exibirá quem é o amigo secreto de cada participante. Você pode visualizar todos os pares de amigo secreto na tela ou, se preferir, gerar uma lista para compartilhar com os participantes.
+
+---
+
 ## 📸 Visualização
 
 <p align="center">
