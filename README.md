@@ -32,4 +32,4 @@ Este é um projeto **simples e interativo** que permite adicionar nomes de parti
 
 1️⃣ **Clone o repositório**  
 ```bash
-git clone https://github.com/seu-usuario/amigo-secreto.git
+git clone https://github.com/Akaixz/challenge_alura_amigosecreto.git
